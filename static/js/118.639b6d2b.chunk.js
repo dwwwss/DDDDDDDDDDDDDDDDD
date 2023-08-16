@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkstarter_bt5=self.webpackChunkstarter_bt5||[]).push([[118],{8118:function(e,t,r){r.r(t);r(2791);var s=r(925),n=r(184);t.default=function(){return(0,n.jsxs)("div",{children:[(0,n.jsx)("h1",{children:"QR Code"}),(0,n.jsx)(s.Z,{value:"https://10.0.0.168/hrmscloneproject/api/AttendanceSession/GetEmployeeAttendanceSummary",size:128,level:"L",fgColor:"#000000",bgColor:"#ffffff"})]})}}}]);
+//# sourceMappingURL=118.639b6d2b.chunk.js.map
